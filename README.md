@@ -1,13 +1,13 @@
 
-# Título do Projeto
+# Hello, I'm FREDDY
 
-**Sobre mim:**    
+## Sobre mim:
 
-* Formado em Enfermagem, apaixonado pela programação, vi em minha paixão a oportunidade de trabalhar com o que amo. Analista e desenvoldedor de softwares em formação.          
+* Studying software analysis and development; Graduated in Nursing;
 
-* _**Desenvolvendo back and front - end, automação e entusiasta da blockchain.**_
+* Backend and Frontend Developer;
 
-* Gosto de frequentar a academia, jogar e passar momentos preciosos com minha família e amigos.
+* Blockchain and Artificial Intelligence Enthusiasts.
 
 ## Certificados:
 
