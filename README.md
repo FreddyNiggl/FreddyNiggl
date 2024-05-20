@@ -3,8 +3,7 @@
 
 ## Sobre mim:
 
-* Studying software analysis and development; Graduated in Nursing;
-
+* Studying software analysis and development;
 * Backend and Frontend Developer;
 
 * Blockchain and Artificial Intelligence Enthusiasts.
